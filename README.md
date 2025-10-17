@@ -1,11 +1,11 @@
 ## h1d1 (http1.1 server powered by common-lisp)
 
 ```common-lisp
-;;version:20251018
-;;md5:58fa368414adb19bda3e7d1227607dc6
+;;version:20251019
+;;md5:
 ;;runtime:linux>=5.4,glibc>=2.27
-;;download:https://github.com/r6v4/h1d1/releases/download/20251018/h1d1-2025-10-18_x86-64_linux-504_gencgc.7z
-;;download:https://drive.proton.me/urls/DG8XMSX8E8#Nejo355V0RMs
-;;download:https://linshunzhi.lanzoub.com/h1d1-2025-10-18
+;;download:https://drive.google.com/file/d/1HC4zQSmKlKfi6HdXDLsAO_Z75lSi-o7s/view?usp=sharing
+;;download:https://drive.proton.me/urls/Z4JPWE0N8M#URm0ULNLQlFp
+;;download:https://linshunzhi.lanzoub.com/h1d1-2025-10-19
 
 ```
