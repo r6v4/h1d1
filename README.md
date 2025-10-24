@@ -8,6 +8,7 @@
 ;;download:https://drive.google.com/file/d/1HC4zQSmKlKfi6HdXDLsAO_Z75lSi-o7s/view?usp=sharing
 ;;download:https://pan.baidu.com/s/1SxZ2eln93Ouc2MVURtLCSg?pwd=1234
 ;;download:https://drive.proton.me/urls/Z4JPWE0N8M#URm0ULNLQlFp
+;;download:https://yun.139.com/shareweb/#/w/i/2qidEbPBdAT4k
 ;;download:https://linshunzhi.lanzoub.com/h1d1-2025-10-19
 ;;download:https://disk.yandex.com/d/5URIGsbVL5vo5Q
 
