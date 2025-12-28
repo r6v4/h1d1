@@ -1,14 +1,14 @@
 ## h1d1 (http1.1 server powered by common-lisp)
 
 ```common-lisp
-;;version:20251225
-;;md5:060bebcc9a85d52e613fd0d67cdc6fc5
+;;version:20251228
+;;md5:4bd6af7f12f6e35f6e853e5b82eb953f
 ;;runtime:linux>=5.4,glibc>=2.27
-;;github:https://github.com/r6v4/h1d1/releases/download/20251225/h1d1-2025-12-25_x86-64_linux-504_gencgc.7z
-;;google:https://drive.google.com/file/d/1A0OLgWb1lntbOyC4HsYiUIUeQo0QaaIW/view?usp=sharing
-;;baidu:https://pan.baidu.com/s/1_tmBuVKZvMXhmc3X8RVvoQ?pwd=1234
-;;proton:https://drive.proton.me/urls/MVXS3E85EW#RRB6iBEpg4Il
-;;lanzou:https://linshunzhi.lanzoub.com/h1d1-2025-12-25
-;;yandex:https://disk.yandex.com/d/cDURB7_9QXqjng
+;;github:
+;;google:https://drive.google.com/file/d/1mZyCPk9yAEr7oW22Ggel0c0q42wtM1Zs/view?usp=sharing
+;;baidu:https://pan.baidu.com/s/1UaemdEYe9X-Xr40err38mw?pwd=1234
+;;proton:https://drive.proton.me/urls/RA0RMBCQC0#uU8ew15vV7Nd
+;;lanzou:https://linshunzhi.lanzoub.com/h1d1-2025-12-28
+;;yandex:https://disk.yandex.com/d/j05eYAHvYDhaBg
 
 ```
