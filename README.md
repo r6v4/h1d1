@@ -5,10 +5,7 @@
 ;;md5:baf7e68cd9ee0a12b352958fe2ec485a
 ;;runtime:linux>=5.4.0,ldd>=2.27
 ;;github:
-;;google:
-;;baidu:
-;;proton:
-;;lanzou:
-;;yandex:
+;;proton:https://drive.proton.me/urls/1TZKA9M7E4#81E6kQU2NfAc
+;;lanzou:https://linshunzhi.lanzoub.com/igJ0v47ifqxe
 
 ```
