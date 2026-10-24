@@ -7,5 +7,5 @@
 ;;github:https://github.com/r6v4/h1d1/releases/download/20260919/h1d1-2026-09-19_x86-64_linux5-ldd227_gencgc.7z
 ;;proton:https://drive.proton.me/urls/2XPJAPPFRM#5l5w8qJlYaPJ
 ;;lanzou:https://linshunzhi.lanzoub.com/ioLaW493jdsh
-
+;;The old version(20260213)(20260214) had a logic bug with node-part, the new version goes back to using UUID to fix it.
 ```
